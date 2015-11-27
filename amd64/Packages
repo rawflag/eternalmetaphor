@@ -1,0 +1,14 @@
+Package: leiningen
+Version: 2.5.3
+Architecture: x86-64
+Maintainer: Emory Merryman <emory.merryman@gmail.com>
+Filename: amd64/myleiningen_2.5.3.deb
+Size: 4946
+MD5sum: 571bcb593830bbcca3102edfdaa33d83
+SHA1: 4b7471fca9df77c96e79be4a9f8cfa45d5640896
+SHA256: 78199d544db4d713237179704914d415b9c37d8403b67a67038d688f521cba88
+Section: base
+Priority: optional
+Description: Leiningen
+ Leiningen is for automating Clojure projects without setting your hair on fire.
+
