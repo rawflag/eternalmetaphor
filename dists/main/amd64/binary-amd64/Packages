@@ -12,3 +12,19 @@ Priority: optional
 Description: Leiningen
  Leiningen is for automating Clojure projects without setting your hair on fire.
 
+Package: timelyhelium
+Version: 2.5.3
+Architecture: all
+Maintainer: Emory Merryman <emory.merryman@gmail.com>
+Filename: dists/main/amd64/binary-amd64/timelyhelium_2.5.3.deb
+Size: 5016
+MD5sum: efd7635c8e2edf5932c78a922eb7a44a
+SHA1: eb73fe1ec9759eef474f4e1c798984f49659de77
+SHA256: 7e509d3595235fc717868b774030171738d7e934a4678a844b76528fbf09dbe6
+Section: base
+Priority: optional
+Description: Leiningen
+ Leiningen is for automating Clojure projects without setting your hair on fire.
+ The only reason I am packaging this is because I need a newer version of
+ leiningen than ubuntu provides.
+
